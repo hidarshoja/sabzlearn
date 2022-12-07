@@ -1,0 +1,25 @@
+#boxKharid{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+.boxImgDiv{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    margin-right: 100px;
+}
+.boxImgDiv img{
+    width: 400px;
+    height: auto;
+    border-radius: 0;
+}
+.contentDiv{
+    justify-content: space-between;
+    
+    
+}
